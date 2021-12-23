@@ -1,11 +1,11 @@
 logo: /images/imda-logo.ico
 links:
   - title: Facilities
-    collection: example-collection
+    collection: facilities
   - title: Programmes
     url: /programmes/
-  - title: Community
-    collection: example-collection
+  - title: Facilities
+    collection: facilities
   - title: Events
     resource_room: true
   - title: Contact us
