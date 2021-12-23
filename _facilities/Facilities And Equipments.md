@@ -3,7 +3,7 @@ title: Facilities And Equipments
 permalink: /Facilities/Facilities-And-Equipments
 description: ""
 ---
-1. **Co-Working and Discussion Space**
+ 1. **Co-Working and Discussion Space**
 
 Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
 
