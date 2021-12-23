@@ -2,4 +2,4 @@ collections:
   facilities:
     output: true
     order:
-      - example-page.md
+      - Facilities And Equipments.md
