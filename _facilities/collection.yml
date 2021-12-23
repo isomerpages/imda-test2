@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  facilities:
     output: true
     order:
       - example-page.md
