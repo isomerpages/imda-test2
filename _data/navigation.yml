@@ -5,7 +5,7 @@ links:
   - title: Programmes
     url: /programmes/
   - title: Community
-    collection: facilities
+    collection: community
   - title: Events
     resource_room: true
   - title: Contact us
