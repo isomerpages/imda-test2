@@ -4,7 +4,7 @@ links:
     collection: facilities
   - title: Programmes
     url: /programmes/
-  - title: Facilities
+  - title: Community
     collection: facilities
   - title: Events
     resource_room: true
