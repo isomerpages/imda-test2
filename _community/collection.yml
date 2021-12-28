@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Companies.md
       - Overview.md
       - Partners/.keep
       - Mentorship Panel/.keep
