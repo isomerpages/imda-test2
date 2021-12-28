@@ -2,12 +2,12 @@ collections:
   community:
     output: true
     order:
-      - Companies.md
       - Overview.md
       - Partners/.keep
       - Mentorship Panel/.keep
       - Mentorship Panel/Immersive Experiences.md
       - Mentorship Panel/Digital Storytelling.md
       - Mentorship Panel/Design Thinking.md
+      - Companies.md
       - Companies/.keep
       - Alumni/.keep
