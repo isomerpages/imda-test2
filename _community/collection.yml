@@ -2,8 +2,8 @@ collections:
   community:
     output: true
     order:
-      - Mentorship Panel.md
       - Overview.md
+      - Mentorship Panel.md
       - Mentorship Panel/.keep
       - Alumni/.keep
       - Companies/.keep
