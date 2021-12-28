@@ -3,7 +3,7 @@ links:
   - title: Facilities
     collection: facilities
   - title: Programmes
-    url: /programmes/
+    collection: programmes
   - title: Community
     collection: community
   - title: Events
