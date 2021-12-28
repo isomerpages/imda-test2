@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Mentorship Panel.md
       - Mentorship Panel/Immersive Experiences.md
       - Mentorship Panel/Digital Storytelling.md
       - Mentorship Panel/Design Thinking.md
