@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - UIUX.md
       - Design Thinking.md
