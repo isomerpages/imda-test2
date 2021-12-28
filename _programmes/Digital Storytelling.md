@@ -37,5 +37,3 @@ Get creative in the professional-grade video production studio with facilities, 
 * Audio Recording Studio
 
 Record and edit your creative content in our audio recording studio filled with professional-grade tools and software.
-
-
