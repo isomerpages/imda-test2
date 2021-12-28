@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
+      - Partners/.keep
+      - Mentorship Panel/.keep
       - Mentorship Panel/Immersive Experiences.md
       - Mentorship Panel/Digital Storytelling.md
       - Mentorship Panel/Design Thinking.md
-      - Mentorship Panel/.keep
-      - Alumni/.keep
       - Companies/.keep
-      - Partners/.keep
+      - Alumni/.keep
