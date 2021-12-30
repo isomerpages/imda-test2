@@ -1,7 +1,8 @@
 ---
 title: Example Title
-permalink: /Resources/entrepreneurship/permalink
+permalink: "https://imda-pixel.sg/event/245"
 date: 2021-12-30
 layout: post
 description: ""
+layout: post
 ---
