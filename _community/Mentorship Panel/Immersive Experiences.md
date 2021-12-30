@@ -6,17 +6,18 @@ third_nav_title: Mentorship Panel
 ---
 ### Immersive Experiences
 
-**Dr Khoo Eng Tat**
 
 
-|   | ![Alt text for image on Isomer site](/images/KhooEngTat.jpg) |   |
+
+| **Dr Khoo Eng Tat** |  | |
 | -------- | -------- | -------- |
+| ![Alt text for image on Isomer site](/images/KhooEngTat.jpg)     |      |    |
 
-![Alt text for image on Isomer site](/images/resizedKooEngTat.jpg)
+
 
 Senior Lecturer, NUS Engineering Design and Innovation Centre
 
-Linkedin:[https://www.linkedin.com/in/eng-tat-khoo-6061311a/](https://www.linkedin.com/in/eng-tat-khoo-6061311a/)
+Linkedin: [https://www.linkedin.com/in/eng-tat-khoo-6061311a/](https://www.linkedin.com/in/eng-tat-khoo-6061311a/)
 
 **Jeannie S Lee**
 
