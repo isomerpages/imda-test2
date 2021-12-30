@@ -83,3 +83,7 @@ This talk will give you a glimpse into the exciting world of fund raising and th
 				</b>
 		</h1>
 	</center>
+	
+	
+	<p><img src="smiley.gif" alt="Smiley face" style="float:right">
+The image will float to the right of the text.</p>
