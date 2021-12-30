@@ -1,6 +1,6 @@
 ---
 title: ARVR MOBILE APPS From Software Design To Hardware Build
-permalink: /Resources/immersive-media/permalink
+permalink: "https://imda-pixel.sg/event/245"
 date: 2021-06-21
 layout: post
 description: ""

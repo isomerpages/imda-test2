@@ -1,6 +1,6 @@
 ---
 title: Imagining The 5G Possibilities
-permalink: /Resources/immersive-media/permalink
+permalink: "https://imda-pixel.sg/event/261"
 date: 2021-07-21
 layout: post
 description: ""
