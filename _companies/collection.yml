@@ -2,7 +2,7 @@ collections:
   companies:
     output: true
     order:
-      - Betterdate.md
+      - Betterdata.md
       - Visre.md
       - Frolic Games.md
       - Evolve Innovative.md
