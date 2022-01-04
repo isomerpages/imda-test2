@@ -7,6 +7,20 @@ description: ""
 
 We partner established tech firms and accelerators to host a range of innovation and knowledge sharing programmes. These creates more opportunities to expand the tech ecosystem, resources and technical expertise.
 
+|![Alt text for image on Isomer site](/images/grablogo.png) | ![Alt text for image on Isomer site](/images/companies/IBM.png) |![Alt text for image on Isomer site](/images/facebook.png) |
+| -------- | -------- | -------- |
+| **Grab Ventures Ignite**    | **IBM Singapore**     | **Facebook Accelerator Singapore**  |
+|[View more](/companies/Sendjoy) |    [View more](/companies/skilio)  | [View more](/companies/aloVR)  |
+
+
+| ![Alt text for image on Isomer site](/images/Unity.png)| ![Alt text for image on Isomer site](/images/ubisoft.png) | |
+| -------- | -------- | -------- |
+| **Unity**    | **Ubisoft Singapore**     | |
+|[View more](/companies/Sendjoy) |    [View more](/companies/skilio)  |   |
+
+
+
+
 ![Alt text for image on Isomer site](/images/grab.jpg)
 
 **GRAB VENTURES IGNITE** - We partnered Grab to curate a cross-border immersion pilot programme for Singapore start-ups to venture into the Vietnam market. The programme provides access to world-class expert workshops, mentorship from senior leaders, and immersion trips to regional Grab markets. PIXEL co-organised the Singapore leg of the programme, including workshops on customer-centric innovation and facilities support, with peer learning and networking opportunities for Singapore start-ups to accelerate expansion into Vietnam market.
