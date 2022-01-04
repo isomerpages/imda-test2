@@ -55,22 +55,22 @@ description: ""
 | **Swirl.Go**    | **Mighty Bear Games** |  **Pangaea Interactive** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/alumni/ratloop.jpeg)|![Alt text for image on Isomer site](/images/alumni/sidefx.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
+|![Alt text for image on Isomer site](/images/alumni/ratloop.jpeg)|![Alt text for image on Isomer site](/images/alumni/sidefx.jpeg)|![Alt text for image on Isomer site](/images/alumni/gentlebros.jpeg)|
 | -------- | -------- | -------- |
 | **Ratloop Asia**    | **SideFX Studios** |  **The Gentlebros** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/companies/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
+|![Alt text for image on Isomer site](/images/alumni/prepventures.png)|![Alt text for image on Isomer site](/images/alumni/e3sports.png)|![Alt text for image on Isomer site](/images/alumni/1playsports.png)|
 | -------- | -------- | -------- |
 | **Prep Ventures**    | **E3 Sports** |  **1PlaySports** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/companies/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
+|![Alt text for image on Isomer site](/images/alumni/bandwagon.png)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/alumni/reach52.png)|
 | -------- | -------- | -------- |
 | **Bandwagon**    | **Music Heart Beat** |  **Reach52** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/companies/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
+|![Alt text for image on Isomer site](/images/alumni/vouch.jpeg)|![Alt text for image on Isomer site](/images/alumni/trabble.png)|![Alt text for image on Isomer site](/images/alumni/mightyjaxx.png)|
 | -------- | -------- | -------- |
 | **Vouch**    | **Trabble** |  **Mighty Jaxx** |
 |[View more](/companies/trustineo) |   | |
