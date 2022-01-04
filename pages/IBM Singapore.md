@@ -5,7 +5,7 @@ date: 2022-01-04
 layout: post
 description: ""
 ---
-# IBM Singapore
+
 
 ![Alt text for image on Isomer site](/images/companies/IBM.png)
 
