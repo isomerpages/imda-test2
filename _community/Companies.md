@@ -5,9 +5,9 @@ description: ""
 ---
 ## Companies
 
-| ![Alt text for image on Isomer site](/images/sendjoy.jpg) | ![Alt text for image on Isomer site](/images/MeshMinds.png) | ![Alt text for image on Isomer site](/images/Meshminds-logoweb.png) |
+| ![Alt text for image on Isomer site](/images/sendjoy.jpg) | ![Alt text for image on Isomer site](/images/Skilio.png) | ![Alt text for image on Isomer site](/images/Meshminds-logoweb.png) |
 | -------- | -------- | -------- |
-| **Sendjoy**    | **Advantir Innovation**     | **Alo VR**  |
+| **Sendjoy**    | **Skilio**     | **Alo VR**  |
 |[View more](/Sendjoy) |    [View more]()  | [View more]()  |
 
 |![Alt text for image on Isomer site](/images/rsz_1augmenteed.png)| ![Alt text for image on Isomer site](/images/nplasty.png) | ![Alt text for image on Isomer site](/images/serlIo.png) |
@@ -50,7 +50,7 @@ description: ""
 | **Filmplace**    | **Lendor**     | **Outside**  |
 |[View more](/Sendjoy) |    [View more]()  | [View more]()  |
 
-|![Alt text for image on Isomer site](/images/filmplace.jpeg)|![Alt text for image on Isomer site](/images/Lendor.png)|![Alt text for image on Isomer site](/images/outside.jpeg)|
+|![Alt text for image on Isomer site](/images/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
 | -------- | -------- | -------- |
-| **Filmplace**    | **Lendor**     | **Outside**  |
-|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
+| **Trustineo**    |     |   |
+|[View more](/Sendjoy) |   | |
