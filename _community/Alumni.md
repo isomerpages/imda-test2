@@ -25,37 +25,37 @@ description: ""
 | **Ackcio**    | **Embodied Sensing**     | **Hydroleap**  |
 |[View more](/companies/visre) |    [View more](/companies/betterdata)  | [View more](/companies/dlabs)  |
 
-|![Alt text for image on Isomer site](/images/alumni/H3dynamics.png)| !![Alt text for image on Isomer site](/images/companies/EssePi.png)|![Alt text for image on Isomer site](/images/oravault.jpeg)|
+|![Alt text for image on Isomer site](/images/alumni/H3dynamics.png)| ![Alt text for image on Isomer site](/images/alumni/nephtech.png)|![Alt text for image on Isomer site](/images/alumni/umitron.png)|
 | -------- | -------- | -------- |
 | **H3 Dynamics**    | **Neph Tech Ptd Ltd**     | **Umitron**  |
 |[View more](/companies/eliteFit) |    [View more](/companies/essePi)  | [View more](/companies/oravault)  |
 
-|![Alt text for image on Isomer site](/images/peoplegraphy.png)| ![Alt text for image on Isomer site](/images/companies/zuno.png)|![Alt text for image on Isomer site](/images/dconstruct.png)|
+|![Alt text for image on Isomer site](/images/alumni/creativesatwork.png)| ![Alt text for image on Isomer site](/images/alumni/findingpictures.png)|![Alt text for image on Isomer site](/images/alumni/imbaInteractive.png)|
 | -------- | -------- | -------- |
 | **Creatives At Work**    | **Finding Pictures**     | **IMBA Interactive**  |
 |[View more](/companies/peoplegraphy) |    [View more](/companies/zuno)  | [View more](/companies/dConstruct)  |
 
-|![Alt text for image on Isomer site](/images/companies/tagbox.png)|![Alt text for image on Isomer site](/images/companies/voox.png)|![Alt text for image on Isomer site](/images/companies/virspatial.jpeg)|
+|![Alt text for image on Isomer site](/images/alumni/mantaPictures.png)|![Alt text for image on Isomer site](/images/alumni/viddsee.png)|![Alt text for image on Isomer site](/images/alumni/vuulr.png)|
 | -------- | -------- | -------- |
 | **Manta Pictures**    | **Viddsee**     | **Vuulr**  |
 |[View more](/companies/tagbox) |    [View more](/companies/voox)  | [View more](/companies/virspatial)  |
 
-|![Alt text for image on Isomer site](/images/mandaiWildlifeGroup.png)|![Alt text for image on Isomer site](/images/companies/Cosmo.png)|![Alt text for image on Isomer site](/images/companies/DBCS.png)|
+|![Alt text for image on Isomer site](/images/alumni/battlebrew.png)|![Alt text for image on Isomer site](/images/alumni/joysteak.png)|![Alt text for image on Isomer site](/images/alumni/tendays.png)|
 | -------- | -------- | -------- |
 | **Battlebrew Productions**    | **Joysteak Studios**     | **Tendays**  |
 |[View more](/companies/mandaiWildlifeGroup) |    [View more](/companies/cosmoSoftware)  | [View more](/companies/DBCS)  |
 
-|![Alt text for image on Isomer site](/images/filmplace.jpeg)|![Alt text for image on Isomer site](/images/companies/Lendor.png)|![Alt text for image on Isomer site](/images/outside.jpeg)|
+|![Alt text for image on Isomer site](/images/alumni/adi.png)|![Alt text for image on Isomer site](/images/alumni/affable.png)|![Alt text for image on Isomer site](/images/alumni/transferfi.png)|
 | -------- | -------- | -------- |
 | **Adi Design Studio**    | **Affable.ai**     | **Transfer Fi**  |
 |[View more](/companies/filmplace) |    [View more](/companies/lendor)  | [View more](/companies/outside)  |
 
-|![Alt text for image on Isomer site](/images/companies/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
+|![Alt text for image on Isomer site](/images/alumni/swirlgo.png)|![Alt text for image on Isomer site](/images/alumni/mightybear.jpg)|![Alt text for image on Isomer site](/images/alumni/pangaea.jpeg)|
 | -------- | -------- | -------- |
 | **Swirl.Go**    | **Mighty Bear Games** |  **Pangaea Interactive** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/companies/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
+|![Alt text for image on Isomer site](/images/alumni/ratloop.jpeg)|![Alt text for image on Isomer site](/images/alumni/sidefx.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
 | -------- | -------- | -------- |
 | **Ratloop Asia**    | **SideFX Studios** |  **The Gentlebros** |
 |[View more](/companies/trustineo) |   | |
