@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Trustineo.md
       - Skilio.md
       - Outside.md
       - Lendor.md
