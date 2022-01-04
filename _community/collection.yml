@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Alumni.md
       - Overview.md
       - Mentorship Panel/.keep
       - Mentorship Panel/Immersive Experiences.md
