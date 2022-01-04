@@ -2,5 +2,6 @@ collections:
   alumni:
     output: true
     order:
+      - VRCollab.md
       - Hiverlab.md
       - Betasight Technologies.md
