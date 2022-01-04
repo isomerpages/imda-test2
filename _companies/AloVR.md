@@ -7,7 +7,7 @@ description: ""
 
 ![Alt text for image on Isomer site](/images/aloVR.jpg)
 
-Expertise: VR
+**Expertise**: VR
 
 Alo VR develops AR/VR solutions to provide seniors with cognitive and sensory engagement.
 
@@ -21,8 +21,5 @@ Partners of Alo VR includes:
 
 Projects by AloVR includes a virtual environment system to provide reminiscence therapy to people living with dementia.
 
-
-Website: 
-https://www.sendjoynow.com/
-
-
+**Find out more:** \
+[Website](https://alo.health/)
