@@ -18,7 +18,7 @@ Cosmo has provided their service to many companies ranging from global tech gian
 * Intel
 * Apple
 * World Of Wine (WOW Porto) - through the implementation of the 𝗖𝗢𝗦𝗠𝗢 𝗣𝗦𝗜𝗠+ platform, the Security Professionals and the Management Team can get a comprehensive visibility of threat situations, accurate insights for an active defence strategy and also be at the vanguard of shaping customer experience.
-
+[Read more](https://lnkd.in/d-cnHZe)
 
 
 **Find out more:** \
