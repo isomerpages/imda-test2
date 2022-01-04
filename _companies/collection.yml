@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Filmplace.md
       - Design Business Chamber Singapore.md
       - Cosmo Software.md
       - Mandai Wildlife Group.md
