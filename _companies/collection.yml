@@ -1,0 +1,4 @@
+collections:
+  companies:
+    output: true
+    order: []
