@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Cosmo Software.md
       - Mandai Wildlife Group.md
       - Virspatial.md
       - Voox.md
