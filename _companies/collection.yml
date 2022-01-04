@@ -2,4 +2,5 @@ collections:
   companies:
     output: true
     order:
+      - AloVR.md
       - Sendjoy.md
