@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Frolic Games.md
       - Evolve Innovative.md
       - Vostok VR.md
       - Serl Io.md
