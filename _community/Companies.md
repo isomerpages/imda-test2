@@ -20,13 +20,12 @@ description: ""
 | **Vostok VR**    | **Evolve Innovative**     | **Frolic Games**  |
 |[View more](/Sendjoy) |    [View more]()  | [View more]()  |
 
-|![Alt text for image on Isomer site](/images/vostok.jpeg)| ![Alt text for image on Isomer site](/images/evolve_Innovative.jpg) | ![Alt text for image on Isomer site](/images/Frolic_Games.png)|
+|![Alt text for image on Isomer site](/images/visre.jpeg)| ![Alt text for image on Isomer site](/images/betterdata.png) |![Alt text for image on Isomer site](/images/dlabs.jpeg)|
 | -------- | -------- | -------- |
 | **Visre**    | **Betterdata**     | **Dlabs**  |
 |[View more](/Sendjoy) |    [View more]()  | [View more]()  |
 
-
-
-
-
-
+|![Alt text for image on Isomer site](/images/elitefit.png)| ![Alt text for image on Isomer site](/images/EssePi.png)|![Alt text for image on Isomer site](/images/oravault.jpeg)|
+| -------- | -------- | -------- |
+| **EliteFit**    | **Esse Pi**     | **Orovault**  |
+|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
