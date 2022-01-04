@@ -4,8 +4,8 @@ permalink: /alumni/immersively
 description: ""
 ---
 ### Immersively
-![Alt text for image on Isomer site](/images/alumni/immersively.jpg)
 
+![Alt text for image on Isomer site](/images/alumni/immersively1.jpeg)
 **Expertise**: 
 Immersive Media (Content Creation)
 
