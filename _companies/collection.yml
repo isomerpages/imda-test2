@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Voox.md
       - Tagbox.md
       - dConstruct.md
       - Zuno.md
