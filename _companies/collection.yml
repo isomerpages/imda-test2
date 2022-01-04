@@ -2,5 +2,6 @@ collections:
   companies:
     output: true
     order:
+      - Augmenteed.md
       - AloVR.md
       - Sendjoy.md
