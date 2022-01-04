@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Tagbox.md
       - dConstruct.md
       - Zuno.md
       - Peoplegraphy.md
