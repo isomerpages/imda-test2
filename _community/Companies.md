@@ -27,5 +27,30 @@ description: ""
 
 |![Alt text for image on Isomer site](/images/elitefit.png)| ![Alt text for image on Isomer site](/images/EssePi.png)|![Alt text for image on Isomer site](/images/oravault.jpeg)|
 | -------- | -------- | -------- |
-| **EliteFit**    | **Esse Pi**     | **Orovault**  |
+| **EliteFit**    | **Esse Pi**     | **Oravault**  |
+|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
+
+|![Alt text for image on Isomer site](/images/peoplegraphy.png)| ![Alt text for image on Isomer site](/images/zuno.png)|![Alt text for image on Isomer site](/images/dconstruct.png)|
+| -------- | -------- | -------- |
+| **Peoplegraphy**    | **Zuno**     | **dConstruct**  |
+|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
+
+|![Alt text for image on Isomer site](/images/tagbox.png)|![Alt text for image on Isomer site](/images/voox.png)|![Alt text for image on Isomer site](/images/virspatial.jpeg)|
+| -------- | -------- | -------- |
+| **Tagbox**    | **Voox**     | **Virspatial**  |
+|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
+
+|![Alt text for image on Isomer site](/images/mandaiWildlifeGroup.png)|![Alt text for image on Isomer site](/images/Cosmo.png)|![Alt text for image on Isomer site](/images/DBCS.png)|
+| -------- | -------- | -------- |
+| **Mandai Wildlife Group**    | **Cosmo Software**     | **Design Business Chamber Singapore**  |
+|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
+
+|![Alt text for image on Isomer site](/images/filmplace.jpeg)|![Alt text for image on Isomer site](/images/Lendor.png)|![Alt text for image on Isomer site](/images/outside.jpeg)|
+| -------- | -------- | -------- |
+| **Filmplace**    | **Lendor**     | **Outside**  |
+|[View more](/Sendjoy) |    [View more]()  | [View more]()  |
+
+|![Alt text for image on Isomer site](/images/filmplace.jpeg)|![Alt text for image on Isomer site](/images/Lendor.png)|![Alt text for image on Isomer site](/images/outside.jpeg)|
+| -------- | -------- | -------- |
+| **Filmplace**    | **Lendor**     | **Outside**  |
 |[View more](/Sendjoy) |    [View more]()  | [View more]()  |
