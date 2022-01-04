@@ -2,6 +2,7 @@ collections:
   companies:
     output: true
     order:
+      - Design Business Chamber Singapore.md
       - Cosmo Software.md
       - Mandai Wildlife Group.md
       - Virspatial.md
