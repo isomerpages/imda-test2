@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - E3 Sports.md
       - Prep Ventures.md
       - The Gentlebros.md
       - SideFX Studios.md
