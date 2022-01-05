@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Umitron.md
       - NephTech Pte Ltd.md
       - H3 Dynamics.md
       - Hydroleap.md
