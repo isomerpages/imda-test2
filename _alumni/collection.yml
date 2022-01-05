@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Prep Ventures.md
       - The Gentlebros.md
       - SideFX Studios.md
       - Ratloop Asia.md
