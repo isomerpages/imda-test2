@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Ratloop Asia.md
       - Pangaea Interactive.md
       - Mighty Bear.md
       - Cosmo Software.md
