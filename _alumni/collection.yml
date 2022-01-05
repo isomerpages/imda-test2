@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Affable Ai.md
       - Adi Design Studio.md
       - Tendays.md
       - Joysteak Studios.md
