@@ -40,17 +40,12 @@ description: ""
 | **Tagbox**    | **Voox**     | **Virspatial**  |
 |[View more](/companies/tagbox) |    [View more](/companies/voox)  | [View more](/companies/virspatial)  |
 
-|![Alt text for image on Isomer site](/images/mandaiWildlifeGroup.png)|![Alt text for image on Isomer site](/images/companies/Cosmo.png)|![Alt text for image on Isomer site](/images/companies/DBCS.png)|
+|![Alt text for image on Isomer site](/images/mandaiWildlifeGroup.png)|![Alt text for image on Isomer site](/images/rsz_trustineo.jpeg)|![Alt text for image on Isomer site](/images/companies/DBCS.png)|
 | -------- | -------- | -------- |
-| **Mandai Wildlife Group**    | **Cosmo Software**     | **Design Business Chamber Singapore**  |
-|[View more](/companies/mandaiWildlifeGroup) |    [View more](/companies/cosmoSoftware)  | [View more](/companies/DBCS)  |
+| **Mandai Wildlife Group**    | **Trustineo**     | **Design Business Chamber Singapore**  |
+|[View more](/companies/mandaiWildlifeGroup) |    [View more](/companies/trustineo)  | [View more](/companies/DBCS)  |
 
 |![Alt text for image on Isomer site](/images/filmplace.jpeg)|![Alt text for image on Isomer site](/images/companies/Lendor.png)|![Alt text for image on Isomer site](/images/outside.jpeg)|
 | -------- | -------- | -------- |
 | **Filmplace**    | **Lendor**     | **Outside**  |
 |[View more](/companies/filmplace) |    [View more](/companies/lendor)  | [View more](/companies/outside)  |
-
-|![Alt text for image on Isomer site](/images/companies/trustineo.jpeg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
-| -------- | -------- | -------- |
-| **Trustineo**    |     |   |
-|[View more](/companies/trustineo) |   | |
