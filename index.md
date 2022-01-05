@@ -49,8 +49,4 @@ sections:
       url: /community/Overview
       image: /images/Community_Img5_630-x-355.png
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
