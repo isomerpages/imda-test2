@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Creatives At Work.md
       - Umitron.md
       - NephTech Pte Ltd.md
       - H3 Dynamics.md
