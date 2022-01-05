@@ -2,7 +2,6 @@ collections:
   alumni:
     output: true
     order:
-      - Example Title.md
       - 1PlaySports.md
       - E3 Sports.md
       - Prep Ventures.md
