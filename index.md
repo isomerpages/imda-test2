@@ -28,7 +28,7 @@ sections:
       description: Join our events where our community shares about the latest
         devcelopments in tech, media and design
       button: View all events
-      url: /resources
+      url: /resources/
       image: /images/voiceinterface1.jpg
       alt: Image alt text
   - infopic:
