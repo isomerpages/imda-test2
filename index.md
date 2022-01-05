@@ -37,7 +37,7 @@ sections:
       description: Keen to access PIXEL's shared facilities and equipments for
         customer-centric innovation?
       button: Find our more
-      url: /facilities
+      url: /facilities/overview
       image: /images/IME_Img2_770x430.png
       alt: Image alt text
   - infopic:
@@ -46,7 +46,7 @@ sections:
       description: Interested to join our community, access our facilities and keep up
         to date with programmes?
       button: find our more
-      url: /community
+      url: /community/Overview
       image: /images/Community_Img5_630-x-355.png
       alt: Image alt text
   - resources:
