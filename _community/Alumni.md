@@ -5,9 +5,9 @@ description: ""
 ---
 ## Alumni
 
-|![Alt text for image on Isomer site](/images/alumni/betasight.jpg) | ![Alt text for image on Isomer site](/images/alumni/hiverlab.png)|![Alt text for image on Isomer site](/images/alumni/vrcollab.png)|
+|![Alt text for image on Isomer site](/images/alumni/mightyjaxx.png)| ![Alt text for image on Isomer site](/images/alumni/hiverlab.png)|![Alt text for image on Isomer site](/images/alumni/vrcollab.png)|
 | -------- | -------- | -------- |
-| **Betasight Technologies**    | **Hiverlab**     | **VRCollab**  |
+| **Mighty Jaxx**    | **Hiverlab**     | **VRCollab**  |
 |[View more]() |    [View more]()  | [View more]()  |
 
 |![Alt text for image on Isomer site](/images/alumni/immersively.jpg)| ![Alt text for image on Isomer site](/images/alumni/ignitevr.png) | ![Alt text for image on Isomer site](/images/alumni/magicmao1.png)|
@@ -70,7 +70,7 @@ description: ""
 | **Bandwagon**    | **Cosmo Software** |  **Reach52** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/alumni/vouch.jpeg)|![Alt text for image on Isomer site](/images/alumni/trabble.png)|![Alt text for image on Isomer site](/images/alumni/mightyjaxx.png)|
+|![Alt text for image on Isomer site](/images/alumni/vouch.jpeg)|![Alt text for image on Isomer site](/images/alumni/trabble.png)|![Alt text for image on Isomer site](/images/placeholder.jpg)|
 | -------- | -------- | -------- |
-| **Vouch**    | **Trabble** |  **Mighty Jaxx** |
+| **Vouch**    | **Trabble** | |
 |[View more](/companies/trustineo) |   | |
