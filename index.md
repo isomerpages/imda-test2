@@ -28,7 +28,7 @@ sections:
       description: Join our events where our community shares about the latest
         devcelopments in tech, media and design
       button: View all events
-      url: /events/
+      url: /events
       image: /images/voiceinterface1.jpg
       alt: Image alt text
   - infopic:
@@ -37,7 +37,7 @@ sections:
       description: Keen to access PIXEL's shared facilities and equipments for
         customer-centric innovation?
       button: Find our more
-      url: /facilities/
+      url: /facilities
       image: /images/IME_Img2_770x430.png
       alt: Image alt text
   - infopic:
@@ -46,7 +46,7 @@ sections:
       description: Interested to join our community, access our facilities and keep up
         to date with programmes?
       button: find our more
-      url: /community/
+      url: /community
       image: /images/Community_Img5_630-x-355.png
       alt: Image alt text
   - resources:
