@@ -13,15 +13,15 @@ sections:
       button: Join our mailing list
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: "Raising capital and Awareness of IP Issues "
+          description: 24 Nov 2021
+          url: https://imda-pixel.sg/event/288
+        - title: Designing hospitality tech solutions to enhance guest exp
+          description: 23 Nov 2021
+          url: https://imda-pixel.sg/event/290
+        - title: Converging 5G and ARVR/AI
+          description: 05 Nov 2021
+          url: https://imda-pixel.sg/event/287
   - infopic:
       title: Upcoming Events
       subtitle: events
@@ -54,4 +54,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
