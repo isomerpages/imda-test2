@@ -65,9 +65,9 @@ description: ""
 | **Prep Ventures**    | **E3 Sports** |  **1PlaySports** |
 |[View more](/companies/trustineo) |   | |
 
-|![Alt text for image on Isomer site](/images/alumni/bandwagon.png)|![Alt text for image on Isomer site](/images/placeholder.jpg)|![Alt text for image on Isomer site](/images/alumni/reach52.png)|
+|![Alt text for image on Isomer site](/images/alumni/bandwagon.png)|![Alt text for image on Isomer site](/images/companies/Cosmo.png)|![Alt text for image on Isomer site](/images/alumni/reach52.png)|
 | -------- | -------- | -------- |
-| **Bandwagon**    | **Music Heart Beat** |  **Reach52** |
+| **Bandwagon**    | **Cosmo Software** |  **Reach52** |
 |[View more](/companies/trustineo) |   | |
 
 |![Alt text for image on Isomer site](/images/alumni/vouch.jpeg)|![Alt text for image on Isomer site](/images/alumni/trabble.png)|![Alt text for image on Isomer site](/images/alumni/mightyjaxx.png)|
