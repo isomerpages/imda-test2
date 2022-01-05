@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Viddsee.md
       - Manta Pictures.md
       - IMBA Interactive.md
       - Finding Pictures.md
