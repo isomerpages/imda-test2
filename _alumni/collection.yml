@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Swirl Go.md
       - Transfer Fi.md
       - Affable Ai.md
       - Adi Design Studio.md
