@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Bandwagon.md
       - 1PlaySports.md
       - E3 Sports.md
       - Prep Ventures.md
