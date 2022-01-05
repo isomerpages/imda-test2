@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Hydroleap.md
       - Embodied Sensing.md
       - Ackcio.md
       - Neural Bay.md
