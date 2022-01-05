@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - SideFX Studios.md
       - Ratloop Asia.md
       - Pangaea Interactive.md
       - Mighty Bear.md
