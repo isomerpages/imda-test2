@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Adi Design Studio.md
       - Tendays.md
       - Joysteak Studios.md
       - Battlebrew Productions.md
