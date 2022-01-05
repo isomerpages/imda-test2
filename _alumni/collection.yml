@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Finding Pictures.md
       - Creatives At Work.md
       - Umitron.md
       - NephTech Pte Ltd.md
