@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Trabble.md
       - Vouch.md
       - Reach52.md
       - Bandwagon.md
