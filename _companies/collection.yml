@@ -2,7 +2,6 @@ collections:
   companies:
     output: true
     order:
-      - Example Title.md
       - Trustineo.md
       - Skilio.md
       - Outside.md
