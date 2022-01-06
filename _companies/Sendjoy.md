@@ -10,9 +10,10 @@ description: ""
 
 **Expertise**: E-Commerce, Media
 
-Sendjoy is a marketplace for consumers to book personalised celebrity video messages for loved ones. They founded the company in hopes of empowering everyone to pour their hearts out to those they care about, including themselves.
+Sendjoy is a marketplace for consumers to book personalised celebrity video messages for loved ones. 
 
-Celebrities like Gurmit Singh and Liu Ling Ling as well as Southeast Asia's biggest TikTok creators have joined Sendjoy to create content.
+**Existing Project/Partners:** 
+* Celebrities like Gurmit Singh and Liu Ling Ling as well as Southeast Asia's biggest TikTok creators have joined Sendjoy to create content.
 
 
 **Find out more:** \
