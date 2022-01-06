@@ -10,8 +10,11 @@ description: ""
 
 Design Business Chamber Singapore is a community of business leaders, practitioners and academia that champions design in business.
 
-DBCS seeks to forge partnership opportunities between the design and business communities. They exist to facilitate business transformation through design innovation.
+ They exist to facilitate business transformation through design innovation.
 
+**Existing Projects/Partners:**
+* TISDC 2019 Preliminary Selection in collaboration with Grab, IBM Studios and Brandcourage.
+* Singapore Good Design 2021 Awards Ceremony - to promote and recognise outstanding design projects
 
 
 
