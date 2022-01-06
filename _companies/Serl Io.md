@@ -10,10 +10,10 @@ description: ""
 
 Serl.io provides a collaborative, no-code Mixed Reality platform for work and training. They aim to make Mixed Reality more accessible and its use more efficient.
 
-They collaborated with with Crescent Girls' School to launch a curriculum aligned Mixed Reality Hololens to provide an immersive and collaborative experiential learning experience.
+**Existing Partners/Projects:**
+* They collaborated with with Crescent Girls' School to launch a curriculum aligned Mixed Reality Hololens to provide an immersive and collaborative experiential learning experience.
 
 
 **Find out more:** \
 [Website](https://serl.io/)\
-[Linkedin Profile](https://www.linkedin.com/company/serl-io/) 
-
+[Linkedin Profile](https://www.linkedin.com/company/serl-io/)
