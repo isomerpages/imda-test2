@@ -12,7 +12,8 @@ description: ""
 
 Peoplegraphy is developing a VOCA platform which employs a data-driven approach to do an interactive career-map web app based on over 200,000 job historic data.
 
-They have provided creative design, consultation, and developed ideas and concepts for enterprises ranging from large retail chains and corporations to small business owners.
+**Existing Partners/Projects:**
+* They have provided creative design, consultation, and developed ideas and concepts for enterprises ranging from large retail chains and corporations to small business owners.
 
 
 
