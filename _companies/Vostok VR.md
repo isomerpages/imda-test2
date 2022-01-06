@@ -11,13 +11,13 @@ description: ""
 
 Vostok VR is a virtual reality and 360 video production studio. They provide VOSKHOD, an XR platform for enterprises to do remote immersive training for their staff.
 
-**Partners of Vostok VR includes**:
+**Existing Partners/Projects:**:
 * Mediacorp
 * Marina Bay Sands
 * Channel NewsAsia 
 
-**Awards and Recognition** :\
-Vostok VR’s Nestle virtual reality project was awarded the Best VR/AR award at Mumbrella Asia. 
+**Awards/Recognition** :\
+* Vostok VR’s Nestle virtual reality project was awarded the Best VR/AR award at Mumbrella Asia. [Read more](https://www.mumbrella.asia/2018/11/winning-work-from-selling-milk-powder-to-empowering-communities-with-vr)
 
 **Find out more**: \
 [Website](https://www.vostokvr.com/)\
