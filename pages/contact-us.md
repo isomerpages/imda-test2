@@ -2,23 +2,20 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: PIXEL!
+agency_name: PIXEL<br><div class="row2"><div class="column2"><img src="/images/contact-us/pixel-building-photo.jpg"></div></div>
 locations:
-  - address:
-      - 10 Central Exchange Green
-      - Singapore 138649
-      - ""
+  - title: Main Office
+    address:
+        - 10 Central Exchange Green
+        - Singapore 138649
     operating_hours:
       - days: Mon - Fri
         time: 9.00am - 6.00pm
-        description: Closed on Public Holidays
-    maps_link: ""
-    title: Main Office
+        description: 
+    maps_link: https://goo.gl/maps/F1EBqnBMaWgzjHPh6
 contacts:
-  - content:
-      - phone: +65 6377 3800
-      - email: INFO@imda.gov.sg
-      - other: Subscribe to IMDA PIXEL mailing list to stay updated with the latest Tech
-          X Media X Design <i>https://form.gov.sg/607ffa95b4ea9c00126a47c3</i>
-    title: "General Enquiries "
+  - title: General Enquiries & Feedback
+    content:
+      - email: pixel@imda.gov.sg
+      - other: <p style="font-size:1rem;">Subscribe to IMDA PIXEL mailing list to stay updated with the latest Tech x Media x Design <i><a href="https://form.gov.sg/#!/5f6327d424978a001130835c">here</a></i></p><br><br><p class="has-text-weight-semibold margin--top--none margin--bottom--none">How can we help you?</p> Visit our <i><a href="/faq/">FAQ</a></i> page
 ---
