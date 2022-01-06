@@ -4,7 +4,11 @@ title: PIXEL
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click <a href="https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0" target="_blank">here</a> to receive the latest updates about IMDA initiatives, events, and more! Click <a href="https://go.gov.sg/pixelsub" target="_blank">here</a> to find out more about PIXEL initiatives, events, and more
+notification: Click <a href="https://form.gov.sg/#!/5ce4f21a2305a40017faf7b0"
+  target="_blank">here</a> to receive the latest updates about IMDA initiatives,
+  events, and more! Click <a href="https://go.gov.sg/pixelsub"
+  target="_blank">here</a> to find out more about PIXEL initiatives, events, and
+  more
 sections:
   - hero:
       title: Incubate and Innovate with PIXEL
