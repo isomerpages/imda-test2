@@ -10,8 +10,8 @@ description: ""
 
 nPlasty offers a surgical simulation platform with VR and Haptics that replicates surgical training currently done on cadavers to complement and advance surgical training.
 
-They to address the training needs of surgeons around the world.
-They have delivered their solutions to one of the largest Orthopaedic implant manufacturers and is rapidly scaling to being their innovation to residency programs around the world.
+**Existing Partners/Projects:**
+* They have delivered their solutions to one of the largest Orthopaedic implant manufacturers and is rapidly scaling to being their innovation to residency programs around the world.
 
 
 
