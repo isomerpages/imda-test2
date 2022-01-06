@@ -11,15 +11,10 @@ description: ""
 
 Alo VR develops AR/VR solutions to provide seniors with cognitive and sensory engagement.
 
-Partners of Alo VR includes:
-* The Royal Melbourne Hospital
-* MonashHealth
-*  Brunswick private Hospital 
-*  Biorithm
-*  EPI MegaGrants
-*  Econ
+**Existing Project/Partners:**
+* The Royal Melbourne Hospital, MonashHealth, Brunswick private Hospital and many other healthcare and VR companies to enhance their product.
+*Virtual environment system to provide reminiscence therapy to people living with dementia.
 
-Projects by AloVR includes a virtual environment system to provide reminiscence therapy to people living with dementia.
 
 **Find out more:** \
 [Website](https://alo.health/)
