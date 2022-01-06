@@ -10,8 +10,8 @@ description: ""
 
 Visre uses VR to create engaging, educational content to raise awareness of eye diseases and thereby improve compliance to eye screening.
 
-**Partners** :\
-Visre partnered with Moorfields Eye Hospital on the use of computer games and VR in diagnosing eye diseases. Their VR solution has also been recognised by Forbes, NUS, ZaoBao and Straits Times. 
+**Existing Partners/Projects** :
+* Visre partnered with Moorfields Eye Hospital on the use of computer games and VR in diagnosing eye diseases. Their VR solution has also been recognised by Forbes, NUS, ZaoBao and Straits Times. 
 
 
 
