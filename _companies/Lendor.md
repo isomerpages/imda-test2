@@ -10,7 +10,7 @@ description: ""
 
 Lendor is a marketplace where consumers can rent from businesses and peers. Items rented out includes Playstation 5, Iphone and Lenovo Laptops.
 
-**Partners**:
+**Existing Partners/Projects:**:
 * Xiaomi
 *  Magenta 
 *  Lenovo Legion 
