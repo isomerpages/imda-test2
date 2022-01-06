@@ -13,7 +13,7 @@ Tagbox is a supply chain platform to tag products, optimize supply chain, and en
 
 They have enabled immediate ROI in industries varying from Pharmaceutical and healthcare to high tech and Industrial.
 
-**Recognition and Awards**:
+**Awards/Recognition:**:
 * TagBox has been chosen as one of the innovative solutions in PATH PHC Tech Challenge 2021 for addressing primary healthcare needs, focused on #coldchain solutions. [Read more](https://lnkd.in/gSVfyXMw)
 * Series-A investment of $3.86M from TVS Group
 * CII's startupreneur winner in IT and Electronics 2020
@@ -26,4 +26,3 @@ They have enabled immediate ROI in industries varying from Pharmaceutical and he
 [Website](https://www.tagbox.co/)\
 [Linkedin](
 https://www.linkedin.com/company/tagbox-solutions/)
-
