@@ -7,7 +7,7 @@ description: ""
 ---
 
 ![Alt text for image on Isomer site](/images/designThinkingProgs.png)
-Check out our [e-book](https://deploy-preview-27--imda-pixel-prod.netlify.app/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf) to learn how your company can benefit from design thinking.
+Check out our [e-book](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf) to learn how your company can benefit from design thinking.
 
 You might have heard about Design Thinking and how it can transform businesses and organisations. But how can it help you in your innovation journey?
 
@@ -21,7 +21,7 @@ We offer leading design thinking consultants, physically at PIXEL or virtually, 
 
 (3) Tapping on PIXEL’s mentors who can coach and facilitate your innovation projects using a design thinking approach. Check out the list of experts and apply to be mentored [here](/Community/Mentors).
 
-To find out more, download the brochure [here](https://deploy-preview-27--imda-pixel-prod.netlify.app/files/PIXEL%20Brochure_DesignThinking.pdf).
+To find out more, download the brochure [here](/files/PIXEL%20Brochure_DesignThinking.pdf).
 
 ![Alt text for image on Isomer site](/images/designThinkingprogs2.png)
 
