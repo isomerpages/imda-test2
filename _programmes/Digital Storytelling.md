@@ -4,7 +4,7 @@ permalink: /programmes/digitalStorytelling
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/digitalstorytellingprogs1.png)
-Check out our[ e-book](https://deploy-preview-27--imda-pixel-prod.netlify.app/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf) to learn how your company can benefit from Digital Storytelling.
+Check out our[ e-book](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf) to learn how your company can benefit from Digital Storytelling.
 
 Learn how storytelling techniques can be used to improve the marketing, branding and pitching of your product. PIXEL has a panel of consultants to help make their products and services resonate with their customers through digital marketing, pitch deck development and presentation, content creation, and data stories. Our support includes:
 
@@ -14,12 +14,12 @@ Learn how storytelling techniques can be used to improve the marketing, branding
 
 (3) Professional-grade production facilities and equipment, such as production studios, green screen and editing suites, thematic sets, co-working areas and cameras.
 
-To find out more, download the brochure [here](https://deploy-preview-27--imda-pixel-prod.netlify.app/files/PIXEL%20Brochure_DigitalStorytelling.pdf).
+To find out more, download the brochure [here](/files/PIXEL%20Brochure_DigitalStorytelling.pdf).
 
 **Learn The Craft Of Great Digital Storytelling**
 
 ![Alt text for image on Isomer site](/images/digitalmediaprogs2.png)
-If you are keen on developing more customer-centric digital products and services through Design Thinking, tap on PIXEL’s Project-based coaching programme [here](https://deploy-preview-27--imda-pixel-prod.netlify.app/about/design-thinking/coaching-programme/).
+If you are keen on developing more customer-centric digital products and services through Design Thinking, tap on PIXEL’s Project-based coaching programme [here](/about/design-thinking/coaching-programme/).
 
 ### Facilities and Equipments
 * Augmented Reality/Virtual Reality Lab
